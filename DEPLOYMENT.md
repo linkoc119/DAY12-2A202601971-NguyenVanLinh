@@ -49,8 +49,8 @@ rate limit [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 429, 429, 429, 429
 ## Ảnh Chụp Màn Hình
 
 `screenshots/health.png` ghi lại kết quả thật từ `/health` và `/ready` của Public
-URL Railway. Ảnh dashboard Railway cần được lưu thêm thành
-`screenshots/dashboard.png` trước khi nộp.
+URL Railway. `screenshots/dashboard.png` ghi lại hai service `day12-agent` và
+`day12-redis` đều Online, cùng deployment đang Active và Successful.
 
 ## Sự Cố Khi Deploy
 
